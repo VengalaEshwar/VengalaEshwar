@@ -1,61 +1,117 @@
-👋 Hey, I'm Eshwar!
+# 👋 Hi, I'm Vengala Eshwar
 
-🚀 Student | Mentor | Developer | Dreamer
-💡 Passionate about DSA, Web Development, Mobile Apps, and AI-powered platforms.
-🎯 On a journey to turn ideas → code → impact.
+💻 **Computer Science Engineer | Full-Stack Developer | Competitive Programmer | AI Enthusiast**
 
-🌟 About Me
+🚀 Passionate about solving complex problems with **DSA, scalable architectures, and AI-powered solutions**. I love building impactful projects, mentoring peers, and constantly pushing my boundaries in tech.
 
-🎓 Student at GRIET (Gokaraju Rangaraju Institute of Engineering and Technology)
+----------
 
-🏆 Solved 1000+ LeetCode problems & ranked 707 in LeetCode Weekly Contest 432
+## 🔥 About Me
 
-👨‍🏫 Mentor at Smart Interviews, guiding students in DSA
+-   🎓 **B.Tech in CSE @ GRIET, Hyderabad** (2022–2026, CGPA: 9.34)
+    
+-   🏆 **1350+ LeetCode problems solved** (Top 2.5%, 2000+ rating, Knight badge)
+    
+-   🌟 **Mentor @ Smart Interviews** – guided 150+ students in debugging & problem-solving
+    
+-   💡 Currently exploring **React Native, System Design, and AI integrations**
+    
+-   ⚡ Love **building, scaling, and mentoring** in the world of tech
+    
 
-💻 Currently building:
+----------
 
-Hope Bridge – AI-powered global platform connecting orphanages, donors & adoptive parents
+## 💼 Experience
 
-Financial Literacy Game – Making money concepts fun & interactive
+### 🔹 Full Stack Developer Intern – _Akiyam Solutions_ (Jun 2025 – Sep 2025)
 
-🌱 Exploring React Native, MERN stack, and System Design
+-   Fixed **20+ UI/UX bugs**, boosting responsiveness by **30%**
+    
+-   Built **10+ reusable React.js components**, cutting dev time by **25%**
+    
+-   Optimized APIs → reduced load time by **20%**
+    
+-   Collaborated in Agile workflows using **GitHub & code reviews**
+    
 
-⚡ Fun fact: I mix traditional values with forward-thinking ideas (and coffee fuels both).
+### 🔹 Student Mentor – _Smart Interviews_ (Jan 2025 – Jul 2025)
 
-🛠️ Tech Stack
+-   Guided **150+ students** in DSA & debugging
+    
+-   Solved **200+ doubts**, improving peers’ problem-solving speed
+    
+-   Promoted **clean coding practices & efficient algorithms**
+    
 
-Languages:
-C++ | Java | JavaScript | Python | SQL
+----------
 
-Web Development:
-React.js | Node.js | Express.js | MongoDB | TailwindCSS
+## 🚀 Projects
 
-Mobile Development:
-React Native
+### 📊 [Finverse](https://github.com/VengalaEshwar/project-finbuddy) _(MERN + Gemini AI)_
 
-Other Stuff:
-Git | Linux | DSA | System Design
+-   Financial literacy app with **AI-driven insights** (1K+ simulated interactions)
+    
+-   Built **Node.js + MongoDB backend** with auth & REST APIs
+    
+-   Interactive **React dashboards** with data visualizations
+    
 
-📌 Featured Projects
+### 🧠 [NeuroVista](https://github.com/VengalaEshwar/project-k) _(React, Flask, ML)_
 
-🔹 Hope Bridge – MERN + AI platform for orphanages & donors
-🔹 Smart Farming Assistant – VR & AI-powered agricultural guide
-🔹 Financial Literacy Game – 15 levels of finance knowledge (from basics to portfolios)
-🔹 Stock Market Simulator – Virtual trading platform with interactive UI
+-   **Parkinson’s disease prediction system** (95% accuracy on 100+ records)
+    
+-   Flask APIs with <200ms latency
+    
+-   React dashboards for health data visualization
+    
+-   Modular ML pipelines for easy scalability
+    
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eshwar-github&show_icons=true&theme=radical" alt="Eshwar's GitHub stats" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwar-github&theme=radical" alt="GitHub Streak" height="160"/> </p>
-🏆 Achievements
+----------
 
-🎖️ LeetCode 1000+ problems solved
+## 🛠️ Tech Stack
 
-🥇 Rank 707 in Weekly Contest 432
+**Languages:** C, C++, Python, Java  
+**Web Dev:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, Spring Boot, TailwindCSS  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code, Agile  
+**AI/ML:** scikit-learn, pandas, NumPy, LLMs  
+**Core CS:** OOP, DSA, OS, DBMS, CN, Complexity Analysis
 
-🎓 Selected as Mentor at Smart Interviews
+----------
 
-🛠️ Built multiple AI + MERN full-stack projects
+## 🏆 Achievements
 
-🌐 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="https://github.com/eshwar-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+-   ⚡ **1350+ LeetCode problems solved** | _Knight Badge_ | Top 2.5%
+    
+-   🌟 **CodeChef 3★ (1670+ rating)** | 300+ problems solved
+    
+-   🥇 **Global Rank 74/40,000+** on Smart Interviews
+    
+-   🎖️ **Gold Badges in Java & DSA** on HackerRank
+    
 
-🔥 “Code isn’t just syntax. It’s how I tell my story.”
+----------
+
+## 📜 Certifications
+
+-   ✅ **Certified in C & Python** (Cisco & OpenEDG)
+    
+-   ✅ **MERN Stack Development Certification** (PW Skills)
+    
+
+----------
+
+## 📈 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VengalaEshwar&show_icons=true&theme=radical" alt="Eshwar's GitHub stats" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VengalaEshwar&theme=radical" alt="GitHub Streak" height="160"/> </p>
+
+----------
+
+## 🌐 Connect With Me
+
+<p align="center"> <a href="mailto:eshwarvengala30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/eshwarvengala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/VengalaEshwar"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://eshwarvengala.in"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a> <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> </p>
+
+----------
+
+🔥 _“Code isn’t just syntax, it’s the language of building futures.”_
